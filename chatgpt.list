@@ -12,6 +12,6 @@ DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
 #add bing.com
-DOMAIN-SUFFIX,bing.com
+#DOMAIN-SUFFIX,bing.com
 #add bard
 DOMAIN-SUFFIX,bard.google.com
