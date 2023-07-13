@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,poe.com
 #DOMAIN-SUFFIX,bing.com
 #add bard
 DOMAIN-SUFFIX,bard.google.com
+#add claude.ai
+DOMAIN-SUFFIX claude.ai
